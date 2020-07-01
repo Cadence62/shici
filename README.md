@@ -6,3 +6,5 @@
 后端使用go app使用fluuter.
 
 ### 效果
+![image](https://github.com/linuxMengfan/shici/blob/master/img/IMG_0161.jpeg)
+![image](https://github.com/linuxMengfan/shici/blob/master/img/IMG_0163.jpeg)
